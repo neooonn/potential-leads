@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 400px;
+    background-color: #0B2447;
+}
+
+/*
+
+Style our app according to the provided design!
+
+green color -> #5f9341
+
+*/
+
+
+input {
+    width: 100%;
+    border: 1px solid #A5D7E8;
+    margin-bottom: 5px;
+    box-sizing: border-box;
+    padding: 10px;
+    background-color: #576CBC;
+    color: white;
+}
+button {
+    font-size: 15px;
+    width: 130px;
+    height: 35px;
+    color: white;
+    border: 1px solid white;
+    background-color: #19376D;
+    font-weight: bold;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+a {
+    color: white;
+}
